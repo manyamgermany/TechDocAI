@@ -1,0 +1,5 @@
+{
+  "name": "TechDocAI",
+  "description": "An intelligent multi-agent AI platform that automates the creation of professional technical documentation (HLD, LLD, TDD, etc.) by leveraging AI agents that function as expert solution architects for various technologies.",
+  "requestFramePermissions": []
+}
